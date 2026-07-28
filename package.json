@@ -1,7 +1,7 @@
 {
   "name": "desktop-monitor",
   "private": true,
-  "version": "0.1.0",
+  "version": "0.1.1",
   "type": "module",
   "description": "Native system monitor \u2014 per-core CPU, memory, processes, disks and interfaces via sysinfo, sampled at 1 Hz.",
   "license": "MIT",
