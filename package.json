@@ -1,0 +1,30 @@
+{
+  "name": "desktop-monitor",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Native system monitor \u2014 per-core CPU, memory, processes, disks and interfaces via sysinfo, sampled at 1 Hz.",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "tauri": "tauri",
+    "desktop": "tauri dev",
+    "desktop:build": "tauri build"
+  },
+  "dependencies": {
+    "@hanzo/base": "^0.2.1",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "@tauri-apps/api": "^2.11.1"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "@vitejs/plugin-react": "^5.1.0",
+    "typescript": "^5.9.3",
+    "vite": "^7.1.9",
+    "@tauri-apps/cli": "^2.11.4"
+  }
+}
