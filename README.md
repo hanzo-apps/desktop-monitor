@@ -1,13 +1,22 @@
 # Monitor
 
+<!-- hanzo-badges -->
+<p align="left">
+  <a href="https://platform.hanzo.ai/new?repo=https%3A%2F%2Fgithub.com%2Fhanzo-apps%2Fdesktop-monitor&template=desktop-monitor"><img src="https://gallery.hanzo.ai/deploy.svg" alt="Deploy to Hanzo" height="32" /></a>
+  <a href="https://hanzo.ai/chat?template=desktop-monitor"><img src="https://gallery.hanzo.ai/badges/edit-in-hanzo.svg" alt="Edit in Hanzo.ai" height="32" /></a>
+  <a href="https://gallery.hanzo.ai/templates/desktop-monitor"><img src="https://gallery.hanzo.ai/badges/live-preview.svg" alt="Live Preview" height="32" /></a>
+  <a href="https://gallery.hanzo.ai/llms/desktop-monitor/LLM.md"><img src="https://gallery.hanzo.ai/badges/llm-md.svg" alt="LLM.md Playbook" height="32" /></a>
+</p>
+<!-- /hanzo-badges -->
+
 Native system monitor — per-core CPU, memory, processes, disks and interfaces via sysinfo, sampled at 1 Hz.
 
 A **Hanzo desktop template**: one codebase, three installers (macOS, Windows,
 Linux) and a web build. Fork it, `npm i`, ship.
 
 - Live web preview: <https://desktop-monitor.hanzo.app>
-- Installers: <https://github.com/hanzo-templates/desktop-monitor/releases/latest>
-- Source: <https://github.com/hanzo-templates/desktop-monitor>
+- Installers: <https://github.com/hanzo-apps/desktop-monitor/releases/latest>
+- Source: <https://github.com/hanzo-apps/desktop-monitor>
 
 ![desktop-monitor](./public/preview.png)
 
